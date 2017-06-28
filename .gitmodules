@@ -1,0 +1,3 @@
+[submodule "lib-src/Starling-Framework"]
+	path = lib-src/Starling-Framework
+	url = https://github.com/Gamua/Starling-Framework.git
